@@ -1,5 +1,5 @@
 
---------    Solution by AG
+--------    Solution by Arminder
 --------    Challenge 1
 --------    https://8weeksqlchallenge.com/case-study-1/
 
